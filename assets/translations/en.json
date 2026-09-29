@@ -1,0 +1,18 @@
+{
+  "home": "Home",
+  "catalog": "Catalog",
+  "favorites": "Favorites",
+  "profile": "Profile",
+  "welcome_title": "Welcome!",
+  "welcome_sub": "Adaptive app with multi-language support",
+  "special_offers": "Special Offers",
+  "offer_1": "20% Discount on Tech",
+  "offer_2": "Free Shipping",
+  "price": "{} ₸",
+  "added_to_fav": "Added to favorites",
+  "removed_from_fav": "Removed from favorites",
+  "user_name": "Alim Eyubov",
+  "settings": "Settings",
+  "language": "Interface Language",
+  "app_info": "App Version 1.0.0 (SRSP 4)"
+}
